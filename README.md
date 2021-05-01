@@ -1,6 +1,6 @@
 - 👋 Hi, I’m B.Pavan Venkata Sai
 - 👀 I’m interested in Coding,Photography ..etc
-- 🌱 I’m currently learning Electroincs and Communication Engineering
+- 🌱 I’m currently learning Electronics and Communication Engineering
 - 💞️ I’m looking to Find some code to my Project
 - 📫 MaIL mE: bpavanvenkatasai@gmail.com
 - 📫 DM me Insta: pavan_v.sai_26
